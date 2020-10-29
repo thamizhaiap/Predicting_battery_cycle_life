@@ -6,4 +6,4 @@ This work is based on the research article on Nature energy "Data-driven predict
 
 I have developed a regression and classification model to predict the cycle life of battery and classify the batteries from their cycle life within 100 and 10 cycles respectively. 
 
-However, If you are using the dataset, please acknowledge the original source mentioned above. 
+
