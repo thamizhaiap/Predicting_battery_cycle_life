@@ -6,4 +6,10 @@ This work is based on the research article on Nature energy "Data-driven predict
 
 I have developed a regression and classification model to predict the cycle life of battery and classify the batteries from their cycle life within 100 and 10 cycles respectively. 
 
+Model-Cycle_less_than_100_Regression.ipynb : file contains the regression model to predict a battery cycle life within 100 cycles. 
 
+Model-Cycle_less_than_20cycle_classification.ipynb: : notebook contains classification model to classify long and short life batteries with 20 cycles
+
+Model-Cycle_less_than_10cycle_classification.ipynb : notebook contains classification model to classify long and short life batteries with 10 cycles
+
+Model-Cycle_less_than_5cycle_classification.ipynb: : notebook contains classification model to classify long and short life batteries with 5 cycles
